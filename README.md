@@ -1,4 +1,4 @@
-<h1>Identifying vulnerabilities for a small business</h1>
+<h1>Document an incident with an incident handler's journal</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -9,7 +9,10 @@ In this activity lab, I will review the details of a security incident and docum
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Incident handler's journal</b> 
+- <b>Incident handler's journal</b>
+- <b>Wireshark</b>
+- <b>Qwiklabs</b>
+- <b>WindowsVM</b>
 
 <h2>Program walk-through:</h2>
 
@@ -22,6 +25,24 @@ Journal Entry:  <br/>
 <img src="https://i.imgur.com/f0pKvvV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Separate Jounal Entries:  <br/>
+<img src="https://i.imgur.com/cX38P1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/hCtqHCU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/CrdXTyW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/YxlJoES.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<img src="https://i.imgur.com/iSUaTIL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Reflection/Notes:  <br/>
+<img src="https://i.imgur.com/Dza9HzP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/hgPgm32.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
