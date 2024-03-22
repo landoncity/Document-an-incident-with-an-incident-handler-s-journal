@@ -1,6 +1,6 @@
 <h1>Document an incident with an incident handler's journal</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
 In this activity lab, I will review the details of a security incident and document the incident using an incident handler's journal. 
