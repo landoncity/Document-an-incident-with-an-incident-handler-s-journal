@@ -26,14 +26,25 @@ Journal Entry:  <br/>
 <br />
 <br />
 Separate Jounal Entries:  <br/>
+<img src="https://i.imgur.com/vVckwZS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <img src="https://i.imgur.com/cX38P1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<img src="https://i.imgur.com/1krrZ4n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://i.imgur.com/hCtqHCU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/CrdXTyW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<img src="https://i.imgur.com/uAXz3Az.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
 <img src="https://i.imgur.com/YxlJoES.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br />
 <img src="https://i.imgur.com/iSUaTIL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
